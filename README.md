@@ -11,6 +11,6 @@ Def: Hash table consists of an array in which data is accessed via a special ind
 Each node in a binary tree contains three parts: a data member and two pointers(left and right)
 If no child, then set the appropriate pointer to NULL. 
 
-1. Traversal Methods: visiting its nodes one at a time in a specific order.
+### Traversal Methods: visiting its nodes one at a time in a specific order.
 * Four types: preorder, inorder, postorder, level order.
 ** 
